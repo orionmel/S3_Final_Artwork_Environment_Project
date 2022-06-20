@@ -1,6 +1,7 @@
 # S3_Final_Artwork_Environment_Project
 #### Kexin_Mei_20013506
 ----------------------
+
 ## Rebby's Paroniria Adventure
 #### My Github Link : https://github.com/orionmel/S3_Final_Artwork_Environment_Project
 #### Game Link : https://play.unity.com/mg/other/rebby-s-paroniria-adventure
@@ -69,5 +70,18 @@ My name is Rebby, I had a dream one day. someone told me in the dream that I wou
 
 
 ## The popup exhibition
+![](https://github.com/orionmel/S3_Final_Artwork_Environment_Project/blob/main/img/exhibition_page.png)
 
-
+----------------------
+# Reference :
+https://www.bilibili.com/video/BV13v411i76p?spm_id_from=333.999.0.0&vd_source=ea4ac3268c804177f2e3b9f032ff9e4d
+https://www.youtube.com/watch?v=286SGzpUx9o 
+https://www.youtube.com/watch?v=S2mK6KFdv0I&t=920s 
+https://www.youtube.com/watch?v=bXNFxQpp2qk&t=1343s 
+https://www.youtube.com/watch?v=NeuxiCn_zR8 
+https://www.youtube.com/watch?v=jRcDFLaYtEU 
+https://www.youtube.com/watch?v=h2d9Wc3Hhi0&list=PLiyfvmtjWC_V_H-VMGGAZi7n5E0gyhc37 
+https://www.youtube.com/watch?v=LWs1v7XcdzQ
+https://www.youtube.com/watch?v=TdiLdvMGef8&list=PLHBRt17MFz6ZfuUycAYIPw7uWfF5FK91v&index=3
+https://www.youtube.com/watch?v=-FhvQDqmgmU&list=PLwyUzJb_FNeTQwyGujWRLqnfKpV-cj-eO 
+https://www.youtube.com/watch?v=4HpC--2iowE
