@@ -71,8 +71,13 @@ My name is Rebby, I had a dream one day. someone told me in the dream that I wou
 ![](https://github.com/orionmel/S3_Final_Artwork_Environment_Project/blob/main/img/Level3.png)
 
 
-## The popup exhibition
+## The popup exhibition : 
 ![](https://github.com/orionmel/S3_Final_Artwork_Environment_Project/blob/main/img/exhibition_page.png)
+
+## The future of my work : 
+Because someone gave me a suggestion to add a storyline interface to the game during the exhibition, I thought it was a good suggestion to improve the user experience, because of the time, I didn't add the video's story interface and the final ending to the game, I will consider this part in the process of game iteration.<br> 
+<br> 
+Besides, for the repeating respawning part of the character, I think the whole game process is not relatively smooth, which is also part of the need for improvement.
 
 ----------------------
 # Reference :
